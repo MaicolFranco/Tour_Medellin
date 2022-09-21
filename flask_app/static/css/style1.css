@@ -1,0 +1,28 @@
+#body2 {
+    background: rgba(0, 0, 0, 0.7) url("../img/m3.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    color: white;
+    height: 100%;
+
+}
+
+#headr {
+    
+    
+    margin-left: 50px;
+
+}
+
+
+#carouselExampleIndicators {
+    width: 120px;
+padding-right: 20px;
+}
+
+
+#multi-item-example {
+    width: 60rem;
+
+}
